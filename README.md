@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 <h1>Five largest protest in the U.S. history</h1> 
@@ -22,6 +17,3 @@ drew about 2 million people </li>
 </ol>
 
 <b>Complied from wikipedia<b>
-
-</body>
-</html>
